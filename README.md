@@ -1,2 +1,2 @@
 # NewtonsMethod
-A Python Program showcasiing Newton's Method to approximate square roots
+A Python Program showcasing Newton's Method to approximate square roots
